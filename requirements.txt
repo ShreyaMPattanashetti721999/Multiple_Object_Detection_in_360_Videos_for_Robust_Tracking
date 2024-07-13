@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+nltk
+matplotlib
+seaborn
+textblob
+spacy
+torch
+torchvision
+opencv-python
+tqdm
