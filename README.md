@@ -1,5 +1,3 @@
-# Multiple-Object-Detection-in-360-Videos-for-Robust-Tracking
-
 # Multiple Object Detection in 360° Videos for Robust Tracking
 
 This project presents an efficient way to detect objects in 360° videos to enhance tracking performance. The focus is on detecting 'Person' and 'Car' classes using a specialized CNN network called YOLO360, which builds upon YOLOv3 through transfer learning. This project addresses challenges such as the unavailability of annotated datasets, geometric distortions at panoramic poles, and the high computational demands of processing high-resolution 360° media.
