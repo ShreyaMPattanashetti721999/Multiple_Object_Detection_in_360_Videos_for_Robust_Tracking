@@ -8,7 +8,7 @@ The detailed methodology, experiments, and results are documented in the paper t
 
 ## Project Structure
 
-- `My360YOLOPaper.pdf`: The research paper detailing the entire project.
+- `Published360YOLOPaper.pdf`: The research paper detailing the entire project.
 - `data/`: Directory containing the annotated dataset used for training.
 - `models/`: Pre-trained models and weights for YOLO360.
 - `notebooks/`: Jupyter notebooks for training, evaluation, and experimentation.
